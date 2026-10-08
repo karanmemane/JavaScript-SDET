@@ -10,9 +10,9 @@ console.table({
     phoneNumber
 });
 
-console.log({
+console.log(
     name,
     DOB,
     address,
     phoneNumber
-});
+);
