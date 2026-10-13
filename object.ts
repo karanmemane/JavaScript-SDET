@@ -1,8 +1,12 @@
-let employee ={
+let employee :{
+    name: string;
+    age: number;
+    isStudent: boolean;
+}={
     name:"Karan",
     age:25,
     isStudent:true
-};
+}
 
 console.log(employee);
 console.log(employee.name);
